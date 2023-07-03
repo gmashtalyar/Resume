@@ -25,8 +25,6 @@ with col2:
         file_name=resume_file.name,
         mime="application/octet-stream"
     )
-    st.write("📫", "gmashtalyar@yandex.ru")
-    st.write("+7 916 979-8743")
 with col3:
     st.write("")
 

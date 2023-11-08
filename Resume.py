@@ -185,13 +185,13 @@ st.markdown('''
 st.markdown('''
 ## Skills
 ''')
-txt3('Программирование', '`Python`, `Javascript`, `Java`.')
+txt3('Программирование', '`Python`, `Swift`, `Javascript`, `Kotlin`.')
 txt3('Работа в программах', '`SAP`, `Eviews`, `Spotfire`, `FactSet`.')
 txt3('Обработка данных', '`SQL`, `Pandas`, `numpy`.')
 txt3('Моделирование', '`MonteCarlo Simulations`, `linear regressions`, `decision trees`')
-txt3('Базы данных', '`SQLite3`')
+txt3('Базы данных', '`SQLite3`, `PostgreSQL`, `Redis`')
 txt3('Визуализация данных', '`QlikSense`, `matplotlib`, `ChartJS`, `Streamlit`.')
-txt3('Web-разработка', '`Django`, `Spring`, `HTML`, `CSS`.')
+txt3('Web-разработка', '`Django`, `VueJS`.')
 txt3('Иностранные языки', '`Английский`, `Шведский`, `Французский`.')
 
 
